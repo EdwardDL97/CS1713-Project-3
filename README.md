@@ -1,1 +1,2 @@
 # CS1713-Project-3
+This project is to create a program that manages a trip itinerary of destinations using a linked list. The linked list represents the order in which a person travels from one destination to the next. Users will be able to add to, remove from, and view their itineraries as they construct it with your program. All destinations are represented by their three letter airport code. Several base files have been provided for you to start the project.
